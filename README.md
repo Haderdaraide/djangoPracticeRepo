@@ -1,0 +1,2 @@
+# djangoPracticeRepo
+DjangoPractice
